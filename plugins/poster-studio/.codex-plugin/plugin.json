@@ -1,0 +1,19 @@
+{
+  "name": "poster-studio",
+  "version": "1.0.0",
+  "description": "짧은 단서로 포스터 방향 일곱 개를 추천하고 선택한 카피와 한글 서체에 맞춰 이미지 한 장을 제작합니다",
+  "author": {
+    "name": "BLACKBOLD"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "블랙볼드 포스터 스튜디오",
+    "shortDescription": "한 줄 아이디어에서 일곱 가지 시안, 선택한 한 장까지",
+    "developerName": "BLACKBOLD",
+    "category": "Design",
+    "defaultPrompt": [
+      "전남친피자 / 맵싸한 페퍼로니 / 포스터 방향 일곱 개 추천해줘",
+      "비 오는 금요일, 독립서점 밤 낭독회 포스터를 기획해줘"
+    ]
+  }
+}

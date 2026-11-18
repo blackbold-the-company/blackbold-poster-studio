@@ -1,0 +1,20 @@
+{
+  "name": "blackbold-design",
+  "interface": {
+    "displayName": "BLACKBOLD 디자인"
+  },
+  "plugins": [
+    {
+      "name": "poster-studio",
+      "source": {
+        "source": "local",
+        "path": "./plugins/poster-studio"
+      },
+      "category": "Design",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      }
+    }
+  ]
+}
